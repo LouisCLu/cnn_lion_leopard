@@ -1,0 +1,7 @@
+*.cfg
+Include/
+Lib/
+Scripts/
+share/
+data/
+data_augmented/
